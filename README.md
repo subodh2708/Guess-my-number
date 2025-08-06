@@ -1,32 +1,50 @@
-# Guess My Number 🎯
+# 🎯 Guess My Number Game
 
-This is a small JavaScript project where you guess a secret number between 1 and 20.
+A fun and interactive number guessing game built using HTML, CSS, and JavaScript.
+
+[![Live Demo](https://img.shields.io/badge/View-Live-green)](https://subodh2708.github.io/guess-my-number/)
+
+---
 
 ## 📸 Demo Screenshot
 
-![Game screenshot](<guess-my-number screenshot.png>)
+<img src="./screenshot.png" alt="Guess My Number Game Screenshot" width="700"/>
+
+---
 
 ## 🚀 Features
 
-- Random number generation
-- Score and high score tracking
-- Win/lose game logic
-- Reset functionality
-- Interactive UI
+- 🔢 Random secret number between 1 and 20
+- 🎯 Score and high score tracking
+- ✅ Win/Lose logic
+- ♻️ Reset functionality
+- 💡 Simple and clean UI
 
-## 🛠️ Tech Used
+---
 
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Technologies Used
 
-## 📂 How to Run It
+- ✅ HTML
+- 🎨 CSS
+- ⚙️ JavaScript
 
-1. Clone the repo or download ZIP
-2. Open `index.html` in your browser
+---
+
+## 🔗 Live Demo
+
+👉 [Try the Game](https://subodh2708.github.io/Guess-my-number/)
+
+---
+
+## 🧠 How to Use
+
+1. Enter a number between 1 and 20.
+2. Click "Check" to see if it's the secret number.
+3. Your score decreases with each wrong guess.
+4. Click "Again!" to reset the game.
+
+---
 
 ## 🙌 Author
 
-Made with ❤️ by Subodh
-
----
+Made with ❤️ by [Subodh Singh](https://github.com/subodh2708)
