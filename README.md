@@ -2,7 +2,7 @@
 
 A fun and interactive number guessing game built using HTML, CSS, and JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/View-Live-green)](https://subodh2708.github.io/guess-my-number/)
+[![Live Demo](https://img.shields.io/badge/View-Live-green)](https://subodh2708.github.io/Guess-my-number/)
 
 ---
 
